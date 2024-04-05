@@ -1,0 +1,11 @@
+Method Overriding
+
+Task 1: Create a class A with a method named meth returning a string: "Invoking method from class A"
+
+Task 2: Create a class B which extends class A
+
+Task 3: Create an object of class B and call method meth of class A with it
+
+Task 4: Now override method meth of class A in class B, which returns the following string: "Method is overridden in Extended class B"
+
+Task 5: Call this overridden method from object of class B
