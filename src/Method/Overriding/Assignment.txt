@@ -1,5 +1,7 @@
 Method Overriding
 
+complete this assignment to hold your grip on oops concept
+
 Task 1: Create a class A with a method named meth returning a string: "Invoking method from class A"
 
 Task 2: Create a class B which extends class A
